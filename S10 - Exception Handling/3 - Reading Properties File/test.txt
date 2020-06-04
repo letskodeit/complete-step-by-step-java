@@ -1,0 +1,4 @@
+// Please change the extension to .properties before running the file
+// Udemy does not allow to upload .properties file, thatâ€™s why I have to change the extension
+name=letskodeit
+course=java
